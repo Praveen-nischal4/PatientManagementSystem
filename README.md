@@ -46,8 +46,7 @@ and Finally Change Password :
 ![9](https://github.com/Praveen-nischal4/PatientManagementSystem/assets/113875949/9d813dcd-2027-4fa2-959b-e18c0d509b97)
 and finally redirected to login page.
 
-And finally two Modules code is assignment try it or you can reach me via my website 
- [Praveen Nischal](https://www.praveennischal.com/)
+And finally two Modules code is assignment try it 
 <ol>
   <li> Logout</li>
   <li> Book Appointment </li>
