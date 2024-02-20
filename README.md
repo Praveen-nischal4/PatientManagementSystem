@@ -47,7 +47,7 @@ and Finally Change Password :
 and finally redirected to login page.
 
 And finally two Modules code is assignment try it or you can reach me via my website 
-< a href="https://www.praveennischal.com"> Praveen Nischal </a>
+ [Praveen Nischal](https://www.praveennischal.com/)
 <ol>
   <li> Logout</li>
   <li> Book Appointment </li>
