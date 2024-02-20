@@ -10,5 +10,5 @@ Backedn : Mysql <br>
 Server : Tomcat 9 <br>
 
 <h3> Snapshots :</h3>
-<img src="![1](https://github.com/Praveen-nischal4/PatientManagementSystem/assets/113875949/eaec61f0-55db-4152-897c-cfa6c9e9c9e3)
-" alt="" width="500" height="500/>
+![1](https://github.com/Praveen-nischal4/PatientManagementSystem/assets/113875949/eaec61f0-55db-4152-897c-cfa6c9e9c9e3)
+
